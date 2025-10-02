@@ -10,6 +10,8 @@
 
 ### 💡 Others
 
+- remove deprecated `useSystemBrightnessAsync` ([#40168](https://github.com/expo/expo/pull/40168) by [@vonovak](https://github.com/vonovak))
+
 ## 14.0.7 — 2025-09-11
 
 _This version does not introduce any user-facing changes._
