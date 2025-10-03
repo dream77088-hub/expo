@@ -7,6 +7,7 @@
 ### 🎉 New features
 
 - Add support for server data loaders in development ([#39570](https://github.com/expo/expo/pull/39570) by [@hassankhan](https://github.com/hassankhan))
+- Allow specifying user-defined headers ([#40173](https://github.com/expo/expo/pull/40173) by [@hassankhan](https://github.com/hassankhan))
 
 ### 🐛 Bug fixes
 
